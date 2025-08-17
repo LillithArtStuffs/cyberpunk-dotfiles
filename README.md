@@ -9,7 +9,7 @@ This repo sets up a fully riced **Cyberpunk Hyprland desktop** on barebones Arch
 
 ## Usage
 ```bash
-git clone https://github.com/yourusername/cyberpunk-dotfiles.git
+git clone https://github.com/LillithArtStuffs/cyberpunk-dotfiles.git
 cd cyberpunk-dotfiles
 chmod +x install.sh
 ./install.sh
